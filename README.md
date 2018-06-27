@@ -16,21 +16,14 @@ http://appinventor.mit.edu/explore/about-us.html
 
 
 # logic
-We made an app using App Inventor.
-
+The app was created through App Inventor.
 It communicates the application with the ATmega via Bluetooth.
-
-It enter commands into the speech recognition tool in application.
-
-The command entered in the ATmega is converted.
-
+The application receives voice commands with voice recognition tool.
+The input command is converted from the ATmega.
 In ATmega, the input command is output to the circuit.
 
-
 The LED has three levels of brightness control.
-
 DOOR has opening and closing function.
-
 SPEAKER can turn on and play three songs.
-
 The FAN controls the wind intensity in three steps.
+
