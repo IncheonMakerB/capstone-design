@@ -27,11 +27,11 @@ The input command is converted from the ATmega.
 In ATmega, the input command is output to the circuit.
 
 
-The LED has three levels of brightness control.
+LED has three levels of brightness control.
 
 DOOR has opening and closing function.
 
 SPEAKER can turn on and play three songs.
 
-The FAN controls the wind intensity in three steps.
+FAN controls the wind intensity in three steps.
 
