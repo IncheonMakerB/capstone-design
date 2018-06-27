@@ -1,0 +1,104 @@
+#define F_CPU 16000000
+
+#include <avr/io.h>
+#include <util/delay.h>
+
+unsigned char i;
+
+//블루투스를 위한 UART 통신 셋팅 function
+void USART_Init()
+{
+	UBRR0H = 0;
+	UBRR0L = 103; //Baud rate = 9600, U2X = 0
+	UCSR0B |= (1<<RXEN0)|(1<<TXEN0);
+	UCSR0C |= (0<<USBS0)|(3<<UCSZ00);  //data bits : 8, stop bits : 1
+}
+
+//휴대폰으로 부터 데이터를 받는 Function
+unsigned char usart_data_receive(void)
+{
+	while ( !(UCSR0A & (1<<RXC0)) );  //1바이트 데이터 수신 완료 기다림
+	
+	return UDR0;
+}
+
+
+//서보모터 세팅 function
+void Timer_Init(void)
+{
+	TCCR1A = (1 << COM1A1) | (1 << WGM11); // Clear OC1A on Compare match, set Fast PWM(모드 설정)
+	TCCR1B = (1 << WGM13) | (1 << WGM12) | (1 << CS11) | (1 << CS10); // Prescaler 64(사용할 Clock 설정)
+	ICR1 = 4999; // ICR1 set to TOP
+	OCR1A = 375; // 0 degree
+	
+}
+
+//휴대폰으로 부터 받은 값에 따라 서보모터(door) 컨트롤
+void Servo()
+{
+	if(i==0x38) OCR1A = 250;
+	else if(i==0x39) OCR1A = 500;
+}
+
+//LED 컨트롤을 위한 PWM 초기 셋팅
+void PWM0_Init()
+{
+	TCCR0 = 0x61;
+}
+
+//휴대폰으로 부터 받은 값에 따라 PWM 제어
+void PWM0()
+{
+	if(i== 0x30) OCR0 = 0; //off
+	else if(i == 0x31) OCR0 = 82; //1단계
+	else if(i == 0x32) OCR0 = 160; //2단계
+	else if(i == 0x33) OCR0 = 255; //3단계
+}
+
+//DC motor(FAN motor) 셋팅
+void PWM2_Init()
+{
+	TCCR2 = 0x61; // (clk/1)prescaler
+	
+}
+
+//휴대폰으로 부터 받은 값에 따라 PWM 출력
+void PWM2()
+{
+	if(i== 0x34) OCR2 = 0; //off
+	else if(i == 0x35) OCR2 = 60; //1단계
+	else if(i == 0x36) OCR2 = 130; //2단계
+	else if(i == 0x37) OCR2 = 250; //3단계
+}
+
+//멜로디 출력
+void Melody()
+{
+	if(i==0x70) PORTF=0x01;  //p(Melody IC:LOVE ME TENDER)
+	else if(i == 0x71) PORTF = 0x02; //q(Melody 1)
+	else if(i == 0x72) PORTF = 0x04; //r(Melody 2)
+	else if(i == 0x73) PORTF = 0x00; //s(Melody 3)
+}
+
+int main(void)
+{
+	DDRB = 0xFF; //TimerCounter0 for Lighting, DC fan motor
+	DDRF = 0xFF; //Melody
+
+	PWM0_Init();
+	PWM2_Init();
+	Timer_Init();
+
+
+	while (1)
+	{
+		USART_Init();
+		i = usart_data_receive();
+
+		Melody();//Melody
+		PWM0();//LED
+		PWM2();//DC motor
+		Servo();//Servo
+	}
+}
+
