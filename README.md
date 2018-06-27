@@ -18,13 +18,13 @@ http://appinventor.mit.edu/explore/about-us.html
 # logic
 We made an app using App Inventor.
 
-It communicates the application with the art mega via Bluetooth.
+It communicates the application with the ATmega via Bluetooth.
 
-Enter commands into the speech recognition tool in your application.
+Enter commands into the speech recognition tool in application.
 
-The command entered in the art mega is converted.
+The command entered in the ATmega is converted.
 
-In Art Mega, the input command is output to the circuit.
+In ATmega, the input command is output to the circuit.
 
 
 The LED has three levels of brightness control.
