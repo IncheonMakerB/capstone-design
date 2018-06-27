@@ -1,6 +1,8 @@
 # capstone-design
 Maker B
 
+Smart home based on voice recognition
+
 
 # Used program
 
