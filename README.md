@@ -20,7 +20,7 @@ We made an app using App Inventor.
 
 It communicates the application with the ATmega via Bluetooth.
 
-Enter commands into the speech recognition tool in application.
+It enter commands into the speech recognition tool in application.
 
 The command entered in the ATmega is converted.
 
