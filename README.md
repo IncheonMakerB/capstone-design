@@ -119,15 +119,37 @@ This is the Bluetooth connection process of the application. If you select the B
 Press "이곳을 누르고 말하세요" and speak by voice.
 
 ![app_3dooropen](https://user-images.githubusercontent.com/40620102/42128917-a432ad92-7ca5-11e8-9d9d-bcb0b1aa93ce.jpg)
+Voice command: "문 닫아줘" -> Operation: The door closes.
+
 ![app_4doorclose](https://user-images.githubusercontent.com/40620102/42128918-a46c6136-7ca5-11e8-8597-c6e29b9c407b.jpg)
+Voice command: "문 닫아줘" -> Operation: The door closes.
+
 ![app_5fan](https://user-images.githubusercontent.com/40620102/42128919-a4bef1c6-7ca5-11e8-9b5e-153af0ca6e28.jpg)
+Voice command: "선풍기 강하게" -> Operation: The fan operates with strong intensity.<br>
+Voice command: "선풍기 강하게" -> Operation: The fan operates with strong intensity.<br>
+Voice command: "선풍기 강하게" -> Operation: The fan operates with strong intensity.
+
 ![app_6fan2](https://user-images.githubusercontent.com/40620102/42128920-a4f47332-7ca5-11e8-8835-fd4fb51d62bb.jpg)
+Voice command: "선풍기 꺼 줘" -> Operation: The fan is off
+
 ![app_7led1](https://user-images.githubusercontent.com/40620102/42128921-a56065d8-7ca5-11e8-861a-74fae9bab7c0.jpg)
+Voice command: "밝기 약하게" -> The brightness of the light turns on with a weak intensity.
+
 ![app_8led2](https://user-images.githubusercontent.com/40620102/42128922-a5993f20-7ca5-11e8-9afa-84ade8604b55.jpg)
+Voice command: "밝기 중간" -> The brightness of the light turns on with a medium intensity.
+
 ![app_9led3](https://user-images.githubusercontent.com/40620102/42128923-a5cbac26-7ca5-11e8-8614-482801a7ac66.jpg)
+Voice command: "밝기 강하게" -> The brightness of the light turns on with strong intensity.
+
 ![app_10ledoff](https://user-images.githubusercontent.com/40620102/42128924-a60633f0-7ca5-11e8-9d0f-503c28b18883.jpg)
+Voice command: "불 꺼 줘" -> The lights are off.
+
 ![app_11spon](https://user-images.githubusercontent.com/40620102/42128925-a646ef62-7ca5-11e8-9e39-8d69e4229683.jpg)
 ![app_12spoff](https://user-images.githubusercontent.com/40620102/42128926-a697acfe-7ca5-11e8-866d-1c5c738b5c2d.jpg)
+Voice command: "노래 꺼 줘" -> The song is off.<br>
+Voice command: "노래 꺼 줘" -> The song is off.<br>
+Voice command: "노래 꺼 줘" -> The song is off.<br>
+Voice command: "노래 꺼 줘" -> The song is off.
 
 ![d_all](https://user-images.githubusercontent.com/40620102/42127889-b3cb850a-7c8f-11e8-9a15-9e1086c5a98e.jpg)
 ![d_top](https://user-images.githubusercontent.com/40620102/42127891-b4052d8c-7c8f-11e8-816f-c53b5eea13ca.jpg)
