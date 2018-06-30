@@ -49,17 +49,22 @@ http://appinventor.mit.edu/explore/about-us.html
 <img width="429" alt="intro1" src="https://user-images.githubusercontent.com/40620102/42127955-e131ad66-7c90-11e8-9e29-e5cd0fb1c4a6.png">
 <img width="442" alt="intro2" src="https://user-images.githubusercontent.com/40620102/42127956-e1709512-7c90-11e8-99d1-7a99876cdf4a.png">
 
-
-
-
-
 Smart Home refers to a technology that can monitor and control household appliances, energy consumption devices, security devices, and everything through telecommunication network. Depending on the characteristics of the user, it can operate automatically or be controlled remotely. 
  With the aging age, the number of single households is increasing. In addition, products that operate without using their own bodies are being developed in many areas. These products are necessary when there is no one to help you in situations where you are physically uncomfortable or have trouble dealing with other tasks. In the case of older adults, it is also difficult to learn and control new electronic devices based on them, so it is designed to be easy and convenient to operate using voice recognition. Voice recognition will also be more convenient because it can be controlled directly by voice without the use of buttons. 
  The home network market is re-entering by introducing smart home services from major players, mobile network operators and others. Due to predictions from Korea's Smart Home market, it started at 6.5 trillion won in 2013 and grew to 14.9 trillion won in 2016. It is estimated that global Smart Home markets will be worth $ 69 billion in 2016. It has continued to grow and is expected to expand to $ 111.5 billion by 2019. As such, smart home products are becoming more common in Korea and other countries. And it is positive reaction to smart home.
  
 # The reason why voice recognition is good for real life
 Grandparents who have difficulty handling new electronic devices can conveniently use them in their daily lives. Also, since patients in hospitals can operate with minimal movement in uncomfortable conditions, it can also be useful in institutions. Therefore, voice recognition should become popular not only nowadays but also in the future.
+
 # Direction and goal
+
+Smart home production with voice recognition
+
+(1) Set the functions that the main users need within the home. (Ref. Interview material)
+(2) Create an application that uses the App Inventor to accept voice commands. Voice recognition is performed using the speech recognition function provided by App Inventor.
+(3) Using ATmega, we create code that controls the functions of 1
+(4) Make a circuit configuration in which functions of smart home operate with received voice command
+(5) Expectations when applied by making actual model
 
 # Key Considerations
 In order to increase the utilization rate, the accessibility should be good, but it is necessary to use the functions that are frequently used in the house.
