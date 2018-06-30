@@ -93,6 +93,9 @@ The next image is a block of the application. We made using App Inventor.<br>
 ![block4](https://user-images.githubusercontent.com/40620102/42128907-78c1740e-7ca5-11e8-9973-2a4bc4d90de5.JPG)
 <br><br>
 
+![circuit](https://user-images.githubusercontent.com/40620102/42129238-b9cb7856-7cae-11e8-8755-8e9af72ee5b7.jpg)
+This image is circuit configuration.<br><br>
+
 The following pictures are operational. However, please refer to the video clips because speakers and fans are hard to distinguish from the pictures. <br><br>
 1. Bluetooth connection<br>
 ![app_2ready](https://user-images.githubusercontent.com/40620102/42128915-a3b946fa-7ca5-11e8-9d81-288232cdefda.jpg)
@@ -147,6 +150,8 @@ Voice command: "두 번째 노래 켜 줘" -> The second song is turned on.<br>
 Voice command: "세 번째 노래 켜 줘" -> The third song is turned on.<br>
 Voice command: "노래 꺼 줘" -> The song is off.<br><br>
 
+![all](https://user-images.githubusercontent.com/40620102/42129237-b990fc62-7cae-11e8-990d-d0cba8f3079e.jpg)
+<br>Finished model
 
 
 # Video clip
