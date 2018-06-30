@@ -45,6 +45,8 @@ http://appinventor.mit.edu/explore/about-us.html
  
 # ABSTRACT
 
+We created a smart home based on voice recognition. The ATmega program was used, and the App Inventor was used to create applications that accept voice commands. Voice recognition is performed using the application. Voice recognition controls the door (open, close), LED brightness (weak, medium, strong), electric fans (slow, medium, fast), and speakers (song 1,song 2,song 3). These products may be useful when you have no one to help you in situations where you are feeling uncomfortable or have trouble with other tasks. As smart home products are becoming more common in and out of the country, and the size of the smart home market is also large, there will be positive responses.
+
 # INTRODUCTION
 <img width="429" alt="intro1" src="https://user-images.githubusercontent.com/40620102/42127955-e131ad66-7c90-11e8-9e29-e5cd0fb1c4a6.png">
 <img width="442" alt="intro2" src="https://user-images.githubusercontent.com/40620102/42127956-e1709512-7c90-11e8-99d1-7a99876cdf4a.png">
