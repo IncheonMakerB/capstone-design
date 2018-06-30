@@ -112,7 +112,7 @@ LED: LED
 
 ![d_all](https://user-images.githubusercontent.com/40620102/42127889-b3cb850a-7c8f-11e8-9a15-9e1086c5a98e.jpg)
 ![d_top](https://user-images.githubusercontent.com/40620102/42127891-b4052d8c-7c8f-11e8-816f-c53b5eea13ca.jpg)
-![d_circuit](https://user-images.githubusercontent.com/40620102/42127859-9118ba64-7c8f-11e8-9ce8-33d7063a62ed.jpg)
+
 
 # Video clip
 
