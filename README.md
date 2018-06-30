@@ -62,6 +62,10 @@ In order to increase the utilization rate, the accessibility should be good, but
 
 # Method
 
+# Video clip
+
+https://youtu.be/ZCb0IXo_x6Q
+
 # Conclusion
 Our project is to create a system that can be used with minimal action. Also, looking at the prospects of the smart home market, we are on an upward trend. The expected effect of using technology is to make daily life more convenient by minimizing the movement of people with disabilities due to exercise. The principle of operation is that voice commands are entered in the mobile phone application and each motor and device operates according to recognized commands. So people can improve their quality of life through Smart Home built on this voice recognition. It can be applied not only to individual home but also to various public facilities such as hospitals and schools. It will also have a wider range of uses because it can create and delete many necessary functions.
 
