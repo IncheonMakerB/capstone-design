@@ -19,26 +19,15 @@ http://appinventor.mit.edu/explore/about-us.html
 
 
 # logic summary
--The app was created through App Inventor.
-
--It communicates the application with the ATmega via Bluetooth.
-
--The application receives voice commands with voice recognition tool.
-
--The input command is converted from the ATmega.
-
--In ATmega, the input command is output to the circuit.
-
-
-
-
--LED has three levels of brightness control. Brightness can be controlled by PWM control.
-
--DOOR has opening and closing function. This controls the angle of the servo motor at the ATmega.
-
--SPEAKER can turn on and play three songs.
-
--FAN controls the wind intensity in three steps. The speed of the fan can be controlled by PWM control.
+-The app was created through App Inventor.<br>
+-It communicates the application with the ATmega via Bluetooth.<br>
+-The application receives voice commands with voice recognition tool.<br>
+-The input command is converted from the ATmega.<br>
+-In ATmega, the input command is output to the circuit.<br>
+-LED has three levels of brightness control. Brightness can be controlled by PWM control.<br>
+-DOOR has opening and closing function. This controls the angle of the servo motor at the ATmega.<br>
+-SPEAKER can turn on and play three songs.<br>
+-FAN controls the wind intensity in three steps. The speed of the fan can be controlled by PWM control.<br>
 
  
 # ABSTRACT
@@ -86,22 +75,18 @@ In order to better understand the needs of the target group, we visited the hosp
 
 The following parts were used.
 
-Application and ATmega Connection: Bluetooth Module HC-06 Firmware v3.0
-
-Speaker: 40mm 8Ohm 1W Speaker, Melody IC
-
-FAN: 10,000 RPM FAN MOTOR
-
-DOOR: Mini Servo-Motor SG-90
-
-LED: LED
+Application and ATmega Connection: Bluetooth Module HC-06 Firmware v3.0<br>
+Speaker: 40mm 8Ohm 1W Speaker, Melody IC<br>
+FAN: 10,000 RPM FAN MOTOR<br>
+DOOR: Mini Servo-Motor SG-90<br>
+LED: LED<br>
 
 ![material1](https://user-images.githubusercontent.com/40620102/42127885-a6f9f9f6-7c8f-11e8-9099-de53992758de.PNG)
 ![material2](https://user-images.githubusercontent.com/40620102/42127886-a7368f42-7c8f-11e8-88c3-ab2d8f90d9ee.PNG)
 
 # Production process
 
-The next image is a block of the application. We made using App Inventor.
+The next image is a block of the application. We made using App Inventor.<br>
 ![block1](https://user-images.githubusercontent.com/40620102/42128903-7817b432-7ca5-11e8-9555-36ccf4b8f23e.JPG)
 ![block2](https://user-images.githubusercontent.com/40620102/42128904-78557d30-7ca5-11e8-8b79-949e59ebb6e2.JPG)
 ![block3](https://user-images.githubusercontent.com/40620102/42128906-788ff41a-7ca5-11e8-9c3c-bfd5612ec1df.JPG)
@@ -110,22 +95,18 @@ The next image is a block of the application. We made using App Inventor.
  
 ![app_2ready](https://user-images.githubusercontent.com/40620102/42128915-a3b946fa-7ca5-11e8-9d81-288232cdefda.jpg)
 
-This is the Bluetooth connection process of the application. If you select the Bluetooth named HC-06 and connect it, it changes from Disconnected to Connected(green).
-
+This is the Bluetooth connection process of the application. If you select the Bluetooth named HC-06 and connect it, it changes from Disconnected to Connected(green).<br><br>
 
 ![app_3dooropen](https://user-images.githubusercontent.com/40620102/42128916-a3f571fc-7ca5-11e8-8c53-928d811c8932.png)
-Press "이곳을 누르고 말하세요" and speak by voice.
-
+Press "이곳을 누르고 말하세요" and speak by voice.<br><br>
 
 ![app_3dooropen](https://user-images.githubusercontent.com/40620102/42128917-a432ad92-7ca5-11e8-9d9d-bcb0b1aa93ce.jpg)
 
-Voice command: "문 열어줘" -> Operation: The door opens.
-
+Voice command: "문 열어줘" -> Operation: The door opens.<br><br>
 
 ![app_4doorclose](https://user-images.githubusercontent.com/40620102/42128918-a46c6136-7ca5-11e8-8597-c6e29b9c407b.jpg)
 
-Voice command: "문 닫아줘" -> Operation: The door closes.
-
+Voice command: "문 닫아줘" -> Operation: The door closes.<br><br>
 
 ![app_5fan](https://user-images.githubusercontent.com/40620102/42128919-a4bef1c6-7ca5-11e8-9b5e-153af0ca6e28.jpg)
 ![app_6fan2](https://user-images.githubusercontent.com/40620102/42128920-a4f47332-7ca5-11e8-8835-fd4fb51d62bb.jpg)
@@ -133,28 +114,23 @@ Voice command: "문 닫아줘" -> Operation: The door closes.
 Voice command: "선풍기 약하게" -> Operation: The fan operates at a weak intensity.<br>
 Voice command: "선풍기 보통으로" -> Operation: The fan operates at normal speed.<br>
 Voice command: "선풍기 강하게" -> Operation: The fan operates with strong intensity.<br>
-Voice command: "선풍기 꺼 줘" -> Operation: The fan is off
-
+Voice command: "선풍기 꺼 줘" -> Operation: The fan is off<br><br>
 
 ![app_7led1](https://user-images.githubusercontent.com/40620102/42128921-a56065d8-7ca5-11e8-861a-74fae9bab7c0.jpg)
 
-Voice command: "밝기 약하게" -> The brightness of the light turns on with a weak intensity.
-
+Voice command: "밝기 약하게" -> The brightness of the light turns on with a weak intensity.<br><br>
 
 ![app_8led2](https://user-images.githubusercontent.com/40620102/42128922-a5993f20-7ca5-11e8-9afa-84ade8604b55.jpg)
 
-Voice command: "밝기 중간" -> The brightness of the light turns on with a medium intensity.
-
+Voice command: "밝기 중간" -> The brightness of the light turns on with a medium intensity.<br><br>
 
 ![app_9led3](https://user-images.githubusercontent.com/40620102/42128923-a5cbac26-7ca5-11e8-8614-482801a7ac66.jpg)
 
-Voice command: "밝기 강하게" -> The brightness of the light turns on with strong intensity.
- 
+Voice command: "밝기 강하게" -> The brightness of the light turns on with strong intensity.<br><br>
  
 ![app_10ledoff](https://user-images.githubusercontent.com/40620102/42128924-a60633f0-7ca5-11e8-9d0f-503c28b18883.jpg)
 
-Voice command: "불 꺼 줘" -> The lights are off.
-
+Voice command: "불 꺼 줘" -> The lights are off.<br><br>
 
 ![app_11spon](https://user-images.githubusercontent.com/40620102/42128925-a646ef62-7ca5-11e8-9e39-8d69e4229683.jpg)
 ![app_12spoff](https://user-images.githubusercontent.com/40620102/42128926-a697acfe-7ca5-11e8-866d-1c5c738b5c2d.jpg)
@@ -162,11 +138,8 @@ Voice command: "불 꺼 줘" -> The lights are off.
 Voice command: "첫 번째 노래 켜 줘" -> The first song is turned on.<br>
 Voice command: "두 번째 노래 켜 줘" -> The second song is turned on.<br>
 Voice command: "세 번째 노래 켜 줘" -> The third song is turned on.<br>
-Voice command: "노래 꺼 줘" -> The song is off.
+Voice command: "노래 꺼 줘" -> The song is off.<br><br>
 
-
-![d_all](https://user-images.githubusercontent.com/40620102/42127889-b3cb850a-7c8f-11e8-9a15-9e1086c5a98e.jpg)
-![d_top](https://user-images.githubusercontent.com/40620102/42127891-b4052d8c-7c8f-11e8-816f-c53b5eea13ca.jpg)
 
 
 # Video clip
