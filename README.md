@@ -49,9 +49,7 @@ http://appinventor.mit.edu/explore/about-us.html
 <img width="429" alt="intro1" src="https://user-images.githubusercontent.com/40620102/42127955-e131ad66-7c90-11e8-9e29-e5cd0fb1c4a6.png">
 <img width="442" alt="intro2" src="https://user-images.githubusercontent.com/40620102/42127956-e1709512-7c90-11e8-99d1-7a99876cdf4a.png">
 
-![d_all](https://user-images.githubusercontent.com/40620102/42127889-b3cb850a-7c8f-11e8-9a15-9e1086c5a98e.jpg)
-![d_top](https://user-images.githubusercontent.com/40620102/42127891-b4052d8c-7c8f-11e8-816f-c53b5eea13ca.jpg)
-![d_circuit](https://user-images.githubusercontent.com/40620102/42127859-9118ba64-7c8f-11e8-9ce8-33d7063a62ed.jpg)
+
 
 
 
@@ -80,8 +78,15 @@ In order to increase the utilization rate, the accessibility should be good, but
 ![material2](https://user-images.githubusercontent.com/40620102/42127886-a7368f42-7c8f-11e8-88c3-ab2d8f90d9ee.PNG)
 
 # Method
+
+
 ![appinventor1](https://user-images.githubusercontent.com/40620102/42127853-8699bff2-7c8f-11e8-9923-cd148d75c716.png)
-)https://user-images.githubusercontent.com/40620102/42127854-88502b60-7c8f-11e8-8830-d5d4699a7bb2.png)
+![appinventor2](https://user-images.githubusercontent.com/40620102/42127854-88502b60-7c8f-11e8-8830-d5d4699a7bb2.png)
+
+![d_all](https://user-images.githubusercontent.com/40620102/42127889-b3cb850a-7c8f-11e8-9a15-9e1086c5a98e.jpg)
+![d_top](https://user-images.githubusercontent.com/40620102/42127891-b4052d8c-7c8f-11e8-816f-c53b5eea13ca.jpg)
+![d_circuit](https://user-images.githubusercontent.com/40620102/42127859-9118ba64-7c8f-11e8-9ce8-33d7063a62ed.jpg)
+
 # Video clip
 
 https://youtu.be/ZCb0IXo_x6Q
