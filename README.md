@@ -10,9 +10,7 @@ ATmega128
 
 
 App inventor
-
-
-about App Inventor
+<br>about App Inventor
 http://appinventor.mit.edu/explore/about-us.html
 
 ![appinventor3](https://user-images.githubusercontent.com/40620102/42128317-1b059834-7c98-11e8-9d74-9297ec5793f9.png)
