@@ -15,7 +15,6 @@ App inventor
 about App Inventor
 http://appinventor.mit.edu/explore/about-us.html
 
-![appinventor1](https://user-images.githubusercontent.com/40620102/42127853-8699bff2-7c8f-11e8-9923-cd148d75c716.png)
 ![appinventor2](https://user-images.githubusercontent.com/40620102/42127854-88502b60-7c8f-11e8-8830-d5d4699a7bb2.png)
 
 
@@ -62,10 +61,15 @@ Grandparents who have difficulty handling new electronic devices can convenientl
 
 Smart home production with voice recognition
 
+
 (1) Set the functions that the main users need within the home. (Ref. Interview material)
+
 (2) Create an application that uses the App Inventor to accept voice commands. Voice recognition is performed using the speech recognition function provided by App Inventor.
+
 (3) Using ATmega, we create code that controls the functions of 1
+
 (4) Make a circuit configuration in which functions of smart home operate with received voice command
+
 (5) Expectations when applied by making actual model
 
 # Key Considerations
