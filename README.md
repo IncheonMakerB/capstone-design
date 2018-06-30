@@ -36,7 +36,7 @@ We created a smart home based on voice recognition. The ATmega program was used,
 
 # INTRODUCTION
 <img width="429" alt="intro1" src="https://user-images.githubusercontent.com/40620102/42127955-e131ad66-7c90-11e8-9e29-e5cd0fb1c4a6.png">
-
+<br>
 <img width="442" alt="intro2" src="https://user-images.githubusercontent.com/40620102/42127956-e1709512-7c90-11e8-99d1-7a99876cdf4a.png">
 
 Smart Home refers to a technology that can monitor and control household appliances, energy consumption devices, security devices, and everything through telecommunication network. Depending on the characteristics of the user, it can operate automatically or be controlled remotely. 
@@ -60,7 +60,7 @@ Smart home production with voice recognition
 # Key Considerations
 In order to increase the utilization rate, the accessibility should be good, but it is necessary to use the functions that are frequently used in the house.
 
-# Target interview
+# Interview plan & Target interview
 
 ![interview_plan](https://user-images.githubusercontent.com/40620102/42128440-3cafbe4e-7c9b-11e8-96e3-c1a10fa4f261.png)
 
@@ -93,14 +93,17 @@ The next image is a block of the application. We made using App Inventor.<br>
 ![block4](https://user-images.githubusercontent.com/40620102/42128907-78c1740e-7ca5-11e8-9973-2a4bc4d90de5.JPG)
 <br><br>
 
-The following pictures are operational. However, please refer to the video clips because speakers and fans are hard to distinguish from the pictures. <br>
+The following pictures are operational. However, please refer to the video clips because speakers and fans are hard to distinguish from the pictures. <br><br>
+1. Bluetooth connection<br>
 ![app_2ready](https://user-images.githubusercontent.com/40620102/42128915-a3b946fa-7ca5-11e8-9d81-288232cdefda.jpg)
 
 This is the Bluetooth connection process of the application. If you select the Bluetooth named HC-06 and connect it, it changes from Disconnected to Connected(green).<br><br>
 
+2. Input voice command<br>
 ![app_3dooropen](https://user-images.githubusercontent.com/40620102/42128916-a3f571fc-7ca5-11e8-8c53-928d811c8932.png)
 Press "이곳을 누르고 말하세요" and speak by voice.<br><br>
 
+3. Door<br>
 ![app_3dooropen](https://user-images.githubusercontent.com/40620102/42128917-a432ad92-7ca5-11e8-9d9d-bcb0b1aa93ce.jpg)
 
 Voice command: "문 열어줘" -> Operation: The door opens.<br><br>
@@ -109,6 +112,7 @@ Voice command: "문 열어줘" -> Operation: The door opens.<br><br>
 
 Voice command: "문 닫아줘" -> Operation: The door closes.<br><br>
 
+4. Fan<br>
 ![app_5fan](https://user-images.githubusercontent.com/40620102/42128919-a4bef1c6-7ca5-11e8-9b5e-153af0ca6e28.jpg)
 ![app_6fan2](https://user-images.githubusercontent.com/40620102/42128920-a4f47332-7ca5-11e8-8835-fd4fb51d62bb.jpg)
 
@@ -117,6 +121,7 @@ Voice command: "선풍기 보통으로" -> Operation: The fan operates at normal
 Voice command: "선풍기 강하게" -> Operation: The fan operates with strong intensity.<br>
 Voice command: "선풍기 꺼 줘" -> Operation: The fan is off<br><br>
 
+5. LED<br>
 ![app_7led1](https://user-images.githubusercontent.com/40620102/42128921-a56065d8-7ca5-11e8-861a-74fae9bab7c0.jpg)
 
 Voice command: "밝기 약하게" -> The brightness of the light turns on with a weak intensity.<br><br>
@@ -133,6 +138,7 @@ Voice command: "밝기 강하게" -> The brightness of the light turns on with s
 
 Voice command: "불 꺼 줘" -> The lights are off.<br><br>
 
+6. Speaker<br>
 ![app_11spon](https://user-images.githubusercontent.com/40620102/42128925-a646ef62-7ca5-11e8-9e39-8d69e4229683.jpg)
 ![app_12spoff](https://user-images.githubusercontent.com/40620102/42128926-a697acfe-7ca5-11e8-866d-1c5c738b5c2d.jpg)
 
@@ -146,7 +152,7 @@ Voice command: "노래 꺼 줘" -> The song is off.<br><br>
 # Video clip
 
 https://youtu.be/ZCb0IXo_x6Q
-
+<br><br>
 # Conclusion
 Our project is to create a system that can be used with minimal action. Also, looking at the prospects of the smart home market, we are on an upward trend. The expected effect of using technology is to make daily life more convenient by minimizing the movement of people with disabilities due to exercise. The principle of operation is that voice commands are entered in the mobile phone application and each motor and device operates according to recognized commands. So people can improve their quality of life through Smart Home built on this voice recognition. It can be applied not only to individual home but also to various public facilities such as hospitals and schools. It will also have a wider range of uses because it can create and delete many necessary functions.
 
