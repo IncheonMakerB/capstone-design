@@ -107,6 +107,30 @@ LED: LED
 
 # Production process
 
+The next image is a block of the application. We made using App Inventor.
+![block1](https://user-images.githubusercontent.com/40620102/42128903-7817b432-7ca5-11e8-9555-36ccf4b8f23e.JPG)
+![block2](https://user-images.githubusercontent.com/40620102/42128904-78557d30-7ca5-11e8-8b79-949e59ebb6e2.JPG)
+![block3](https://user-images.githubusercontent.com/40620102/42128906-788ff41a-7ca5-11e8-9c3c-bfd5612ec1df.JPG)
+![block4](https://user-images.githubusercontent.com/40620102/42128907-78c1740e-7ca5-11e8-9973-2a4bc4d90de5.JPG)
+
+ 
+![app_2ready](https://user-images.githubusercontent.com/40620102/42128915-a3b946fa-7ca5-11e8-9d81-288232cdefda.jpg)
+This is the Bluetooth connection process of the application. If you select the Bluetooth named HC-06 and connect it, it changes from Disconnected to Connected(green).
+
+![app_3dooropen](https://user-images.githubusercontent.com/40620102/42128916-a3f571fc-7ca5-11e8-8c53-928d811c8932.png)
+Press "이곳을 누르고 말하세요" and speak by voice.
+
+![app_3dooropen](https://user-images.githubusercontent.com/40620102/42128917-a432ad92-7ca5-11e8-9d9d-bcb0b1aa93ce.jpg)
+![app_4doorclose](https://user-images.githubusercontent.com/40620102/42128918-a46c6136-7ca5-11e8-8597-c6e29b9c407b.jpg)
+![app_5fan](https://user-images.githubusercontent.com/40620102/42128919-a4bef1c6-7ca5-11e8-9b5e-153af0ca6e28.jpg)
+![app_6fan2](https://user-images.githubusercontent.com/40620102/42128920-a4f47332-7ca5-11e8-8835-fd4fb51d62bb.jpg)
+![app_7led1](https://user-images.githubusercontent.com/40620102/42128921-a56065d8-7ca5-11e8-861a-74fae9bab7c0.jpg)
+![app_8led2](https://user-images.githubusercontent.com/40620102/42128922-a5993f20-7ca5-11e8-9afa-84ade8604b55.jpg)
+![app_9led3](https://user-images.githubusercontent.com/40620102/42128923-a5cbac26-7ca5-11e8-8614-482801a7ac66.jpg)
+![app_10ledoff](https://user-images.githubusercontent.com/40620102/42128924-a60633f0-7ca5-11e8-9d0f-503c28b18883.jpg)
+![app_11spon](https://user-images.githubusercontent.com/40620102/42128925-a646ef62-7ca5-11e8-9e39-8d69e4229683.jpg)
+![app_12spoff](https://user-images.githubusercontent.com/40620102/42128926-a697acfe-7ca5-11e8-866d-1c5c738b5c2d.jpg)
+
 ![d_all](https://user-images.githubusercontent.com/40620102/42127889-b3cb850a-7c8f-11e8-9a15-9e1086c5a98e.jpg)
 ![d_top](https://user-images.githubusercontent.com/40620102/42127891-b4052d8c-7c8f-11e8-816f-c53b5eea13ca.jpg)
 
