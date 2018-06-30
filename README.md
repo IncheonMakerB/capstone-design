@@ -81,6 +81,13 @@ In order to increase the utilization rate, the accessibility should be good, but
 
 # Material
 
+The following parts were used.
+Application and ATmega Connection: Bluetooth Module HC-06 Firmware v3.0
+Speaker: 40mm 8Ohm 1W Speaker, Melody IC
+FAN: 10,000 RPM FAN MOTOR
+DOOR: Mini Servo-Motor SG-90
+LED: LED
+
 ![material1](https://user-images.githubusercontent.com/40620102/42127885-a6f9f9f6-7c8f-11e8-9099-de53992758de.PNG)
 ![material2](https://user-images.githubusercontent.com/40620102/42127886-a7368f42-7c8f-11e8-88c3-ab2d8f90d9ee.PNG)
 
