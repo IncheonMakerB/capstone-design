@@ -49,6 +49,7 @@ We created a smart home based on voice recognition. The ATmega program was used,
 
 # INTRODUCTION
 <img width="429" alt="intro1" src="https://user-images.githubusercontent.com/40620102/42127955-e131ad66-7c90-11e8-9e29-e5cd0fb1c4a6.png">
+
 <img width="442" alt="intro2" src="https://user-images.githubusercontent.com/40620102/42127956-e1709512-7c90-11e8-99d1-7a99876cdf4a.png">
 
 Smart Home refers to a technology that can monitor and control household appliances, energy consumption devices, security devices, and everything through telecommunication network. Depending on the characteristics of the user, it can operate automatically or be controlled remotely. 
@@ -105,10 +106,6 @@ LED: LED
 ![material2](https://user-images.githubusercontent.com/40620102/42127886-a7368f42-7c8f-11e8-88c3-ab2d8f90d9ee.PNG)
 
 # Production process
-
-![app_block1](https://user-images.githubusercontent.com/40620102/42127855-8bce594c-7c8f-11e8-979e-4842828356bf.png)
-![app_block2](https://user-images.githubusercontent.com/40620102/42127856-8c0c4d88-7c8f-11e8-93da-c0e4edc9c4a1.png)
-![app_block3](https://user-images.githubusercontent.com/40620102/42127857-8c3bd0bc-7c8f-11e8-9cc2-f016b362be8a.png)
 
 ![d_all](https://user-images.githubusercontent.com/40620102/42127889-b3cb850a-7c8f-11e8-9a15-9e1086c5a98e.jpg)
 ![d_top](https://user-images.githubusercontent.com/40620102/42127891-b4052d8c-7c8f-11e8-816f-c53b5eea13ca.jpg)
