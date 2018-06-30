@@ -13,8 +13,12 @@ App inventor
 
 
 about App Inventor
+http://appinventor.mit.edu/explore/about-us.html
 
 ![appinventor1](https://user-images.githubusercontent.com/40620102/42127853-8699bff2-7c8f-11e8-9923-cd148d75c716.png)
+![appinventor2](https://user-images.githubusercontent.com/40620102/42127854-88502b60-7c8f-11e8-8830-d5d4699a7bb2.png)
+
+
 
 # logic summary
 -The app was created through App Inventor.
@@ -42,7 +46,16 @@ about App Inventor
 # ABSTRACT
 
 # INTRODUCTION
- Smart Home refers to a technology that can monitor and control household appliances, energy consumption devices, security devices, and everything through telecommunication network. Depending on the characteristics of the user, it can operate automatically or be controlled remotely. 
+<img width="429" alt="intro1" src="https://user-images.githubusercontent.com/40620102/42127955-e131ad66-7c90-11e8-9e29-e5cd0fb1c4a6.png">
+<img width="442" alt="intro2" src="https://user-images.githubusercontent.com/40620102/42127956-e1709512-7c90-11e8-99d1-7a99876cdf4a.png">
+
+![d_all](https://user-images.githubusercontent.com/40620102/42127889-b3cb850a-7c8f-11e8-9a15-9e1086c5a98e.jpg)
+![d_top](https://user-images.githubusercontent.com/40620102/42127891-b4052d8c-7c8f-11e8-816f-c53b5eea13ca.jpg)
+![d_circuit](https://user-images.githubusercontent.com/40620102/42127859-9118ba64-7c8f-11e8-9ce8-33d7063a62ed.jpg)
+
+
+
+Smart Home refers to a technology that can monitor and control household appliances, energy consumption devices, security devices, and everything through telecommunication network. Depending on the characteristics of the user, it can operate automatically or be controlled remotely. 
  With the aging age, the number of single households is increasing. In addition, products that operate without using their own bodies are being developed in many areas. These products are necessary when there is no one to help you in situations where you are physically uncomfortable or have trouble dealing with other tasks. In the case of older adults, it is also difficult to learn and control new electronic devices based on them, so it is designed to be easy and convenient to operate using voice recognition. Voice recognition will also be more convenient because it can be controlled directly by voice without the use of buttons. 
  The home network market is re-entering by introducing smart home services from major players, mobile network operators and others. Due to predictions from Korea's Smart Home market, it started at 6.5 trillion won in 2013 and grew to 14.9 trillion won in 2016. It is estimated that global Smart Home markets will be worth $ 69 billion in 2016. It has continued to grow and is expected to expand to $ 111.5 billion by 2019. As such, smart home products are becoming more common in Korea and other countries. And it is positive reaction to smart home.
  
@@ -55,13 +68,20 @@ In order to increase the utilization rate, the accessibility should be good, but
 
 # Target interview
 
+![interview_note1](https://user-images.githubusercontent.com/40620102/42127872-a03efc7e-7c8f-11e8-8677-b3f4e22bfe2d.jpg)
+![interview_note2](https://user-images.githubusercontent.com/40620102/42127876-a07af580-7c8f-11e8-9c3d-8af4c15cc9dc.jpg)
+
+![interview1](https://user-images.githubusercontent.com/40620102/42127880-a0b4a1d6-7c8f-11e8-8ab8-93518bf827d4.PNG)
+![interview2](https://user-images.githubusercontent.com/40620102/42127882-a0f20c1a-7c8f-11e8-9711-090c663dea2c.PNG)
 
 # Material
 
-
+![material1](https://user-images.githubusercontent.com/40620102/42127885-a6f9f9f6-7c8f-11e8-9099-de53992758de.PNG)
+![material2](https://user-images.githubusercontent.com/40620102/42127886-a7368f42-7c8f-11e8-88c3-ab2d8f90d9ee.PNG)
 
 # Method
-
+![appinventor1](https://user-images.githubusercontent.com/40620102/42127853-8699bff2-7c8f-11e8-9923-cd148d75c716.png)
+)https://user-images.githubusercontent.com/40620102/42127854-88502b60-7c8f-11e8-8830-d5d4699a7bb2.png)
 # Video clip
 
 https://youtu.be/ZCb0IXo_x6Q
