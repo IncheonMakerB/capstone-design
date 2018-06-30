@@ -36,3 +36,32 @@ http://appinventor.mit.edu/explore/about-us.html
 -SPEAKER can turn on and play three songs.
 
 -FAN controls the wind intensity in three steps. The speed of the fan can be controlled by PWM control.
+
+ 
+# ABSTRACT
+
+# INTRODUCTION
+
+# The reason why voice recognition is good for real life
+
+# Direction and goal
+
+# Key Considerations
+
+# Material
+
+
+
+
+# Method
+
+
+
+
+# Conclusion
+
+
+
+
+
+
