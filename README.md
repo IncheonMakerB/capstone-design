@@ -80,8 +80,12 @@ In order to increase the utilization rate, the accessibility should be good, but
 
 ![interview_plan](https://user-images.githubusercontent.com/40620102/42128440-3cafbe4e-7c9b-11e8-96e3-c1a10fa4f261.png)
 
+Before the interview, we prepared our questions to make a question. It is a note taken after the interview.
+
 ![interview1](https://user-images.githubusercontent.com/40620102/42127880-a0b4a1d6-7c8f-11e8-8ab8-93518bf827d4.PNG)
 ![interview2](https://user-images.githubusercontent.com/40620102/42127882-a0f20c1a-7c8f-11e8-9711-090c663dea2c.PNG)
+
+In order to better understand the needs of the target group, we visited the hospital and interviewed the patients. As a result, it helped in the direction of the project.
 
 # Material
 
