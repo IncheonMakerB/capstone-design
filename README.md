@@ -78,8 +78,6 @@ In order to increase the utilization rate, the accessibility should be good, but
 
 # Target interview
 
-![interview_note1](https://user-images.githubusercontent.com/40620102/42127872-a03efc7e-7c8f-11e8-8677-b3f4e22bfe2d.jpg)
-![interview_note2](https://user-images.githubusercontent.com/40620102/42127876-a07af580-7c8f-11e8-9c3d-8af4c15cc9dc.jpg)
 
 ![interview1](https://user-images.githubusercontent.com/40620102/42127880-a0b4a1d6-7c8f-11e8-8ab8-93518bf827d4.PNG)
 ![interview2](https://user-images.githubusercontent.com/40620102/42127882-a0f20c1a-7c8f-11e8-9711-090c663dea2c.PNG)
