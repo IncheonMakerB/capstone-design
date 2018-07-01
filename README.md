@@ -89,7 +89,7 @@ LED: LED<br>
 
 # Production process
 
-The next image is a block of the application. We made using App Inventor.<br>
+The next image is a block of the application. We made using App Inventor. We set the command to use in the App Inventor. At this time, the inputted command is converted into a simple character or a command of number type, and the converted character is transferred to the ATmega. The commands entered in the App Inventor control the smart home.<br>
 ![block1](https://user-images.githubusercontent.com/40620102/42128903-7817b432-7ca5-11e8-9555-36ccf4b8f23e.JPG)
 ![block2](https://user-images.githubusercontent.com/40620102/42128904-78557d30-7ca5-11e8-8b79-949e59ebb6e2.JPG)
 ![block3](https://user-images.githubusercontent.com/40620102/42128906-788ff41a-7ca5-11e8-9c3c-bfd5612ec1df.JPG)
