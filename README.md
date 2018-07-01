@@ -18,7 +18,10 @@ http://appinventor.mit.edu/explore/about-us.html
 
 
 
-# logic summary
+# Logic summary
+
+![1](https://user-images.githubusercontent.com/40620102/42135300-acf32108-7d38-11e8-9601-0952b26f1b24.png)
+
 -The app was created through App Inventor.<br>
 -It communicates the application with the ATmega via Bluetooth.<br>
 -The application receives voice commands with voice recognition tool.<br>
